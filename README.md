@@ -22,5 +22,8 @@
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
 </div>
 
+###
 
 Apaixonado por encontrar solucões para problemas de TI e facilitar a vida das pessoas atraves da automação e programação.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorworkout)](https://github.com/anuraghazra/github-readme-stats)
